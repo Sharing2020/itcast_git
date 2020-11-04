@@ -20,6 +20,6 @@ public class User {
 		this.email = email;
 	}
 	public String toString() {
-		return "User:{"username + email + "}";
+		return "User:{" + username + email + "}";
 	}	
 }
